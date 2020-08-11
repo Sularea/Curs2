@@ -18,7 +18,7 @@ public class Exercitii {
 
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("test git");
+            System.out.println("test github");
         }
     }
 
